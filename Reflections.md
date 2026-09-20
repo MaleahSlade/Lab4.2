@@ -1,0 +1,3 @@
+How did array methods like push() and filter() help you manipulate data in this activity? The push method allows me to add the input items to the shopping list. The filter method allows me to search through the listed items based on key words. 
+What challenges did you face when trying to filter and search for items in the array? Figuring out how to structure the for loop that made the filter function work was the most difficult. 
+How would you modify this code to make it more efficient or user-friendly? I could modify the filter so that it pulls words with matching characters that aren't sensitive to capitalization. As of right now, the filer will only work if the searched term exactly matches the word on the list.
